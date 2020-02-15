@@ -4,10 +4,12 @@
   "category": null,
   "server": "server.js",
   "title": {
-    "en_EN": "ExampleReactApplication"
+    "en_EN": "ExampleReactApplication",
+    "pt_BR": "Exemplo de Aplicativo React"
   },
   "description": {
-    "en_EN": "ExampleReactApplication"
+    "en_EN": "ExampleReactApplication",
+    "pt_BR": "Exemplo de Aplicativo React"
   },
   "files": [
     "main.js",
